@@ -1,0 +1,14 @@
+body
+{ 
+	margin: 0;
+	font-size: 17px;
+	background-color: #222222;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Lato', sans-serif;
+	width:100%;
+	min-width:600px;
+	max-width:2000px;
+	text-align: center;
+
+}
